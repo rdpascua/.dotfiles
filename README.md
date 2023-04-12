@@ -2,6 +2,14 @@
 
 ## Installation
 
+**Warning!** Use at your own risk!
+
+Install **zsh**
+
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+Install **neovim**
+
     brew install neovim
 
 ## Iterm Colors
