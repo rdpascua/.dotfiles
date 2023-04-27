@@ -1,16 +1,8 @@
 # Darick's Dotfiles
 
-## Installation
+This is my dotfile for mac/linux.
 
-**Warning!** Use at your own risk!
-
-Install **zsh**
-
-    sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
-Install **neovim**
-
-    brew install neovim
+## TODO: Add linux 
 
 ## Iterm Colors
 
