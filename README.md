@@ -2,11 +2,8 @@
 
 This is my dotfile for mac/linux.
 
-## TODO: Add linux 
+## Changes
 
-## Iterm Colors
-
-1. Open Item2 > Settings > Profiles
-2. Select Profile > Colors > Color Presets > Import...
-3. Select iterm2.json
+- Remove `rose-pine` replaced with `spectrum`
+- Added `phpactor.vim`
 

@@ -1,9 +1,10 @@
-require('rose-pine').setup({
-    disable_background = true
+require('monokai-pro').setup({
+    transparent_background = false,
+    filter = "spectrum"
 })
 
 function ColorMyPencils(color) 
-	color = color or "rose-pine"
+	color = color or "monokai-pro"
 	vim.cmd.colorscheme(color)
 
 	vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
