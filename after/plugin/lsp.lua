@@ -6,6 +6,7 @@ lsp.ensure_installed({
   'tsserver',
   'eslint',
   'gopls',
+  'intelephense'
 })
 
 local cmp = require('cmp')
